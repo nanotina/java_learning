@@ -1,0 +1,3 @@
+apply plugin: 'java'
+apple plugin: 'application'
+mainClassName ='HelloWordJava'
